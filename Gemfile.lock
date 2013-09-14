@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    extensions (0.6.0)
+    rake (10.1.0)
+    systemu (2.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  extensions
+  rake
+  systemu
