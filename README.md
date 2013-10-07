@@ -12,6 +12,8 @@ needs.
 
 This repository is **under development** and not intended for use at this time.
 
+[![Build Status](https://travis-ci.org/WebBlocks/WebBlocks-toolkit.png)](https://travis-ci.org/WebBlocks/WebBlocks-toolkit)
+
 See https://github.com/ucla/WebBlocks for the current version of WebBlocks.
 
 ## Usage
